@@ -1,6 +1,6 @@
 title: "Benjamin Abijah"
 author: "Ben Abijah"
-description: "Benjamin Abijah"
+description: "Benjamin Abakah Abijah"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "abijah.pdf", title: "CV", icon: home}
+  - {file: "abijah.pdf", title: "CV"}
   - {title: "Publication", url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=a24c5_0AAAAJ"}
   - {title: "Project", file: "proj.md"}
   - {title: "Blog", file: "blog.md"}
