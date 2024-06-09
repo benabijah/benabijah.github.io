@@ -1,6 +1,14 @@
 ---
 layout: page
-title: ""
+title: "Project"
 ---
 
-See a list of some projects!
+## Ongoing
+Here is a list of some projects that are currently running!
+
+*
+
+## Completed
+See a list of some finished projects
+
+*
