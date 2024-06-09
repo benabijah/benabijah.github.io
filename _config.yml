@@ -17,7 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "abijah.pdf", title: "CV", icon: home}
-  - {title: "Lab", url: "https://www.linkedin.com/in/benjamin-abakah-abijah-936023126/"}
+  - {title: "Publication", url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=a24c5_0AAAAJ"}
+  - {title: "Project", file: "proj.md"}
   - {title: "Blog", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
