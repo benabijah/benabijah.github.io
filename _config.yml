@@ -16,7 +16,6 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About", file: "index.md"}
   - {title: "Resume", url: "/assets/images/benabijah.pdf"}
   - {title: "Publications", file: "pubs.md"}
   - {title: "Projects", file: "proj.md"}
