@@ -5,7 +5,7 @@ title: "About me"
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <img src="/assets/images/me.jpeg" alt="Ben Abijah" width="200" height="300" style="border-radius: 10px;">
+  <img src="/assets/images/me.jpeg" alt="Ben Abijah" width="300" height="500" style="border-radius: 10px;">
 
   <div style="flex: 1; min-width: 250px;">
 
