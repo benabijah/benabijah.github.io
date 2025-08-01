@@ -9,13 +9,11 @@ title: "About me"
 
   <div style="flex: 1; min-width: 250px;">
 
-Hi there! I'm a PhD student in Biostatistics at the [UMass Amherst School of Public Health and Health Sciences](https://www.umass.edu/public-health-sciences/), with a deep interest in statistical and data science methods for large-scale biomedical data.
+<p>Hi there! I'm a PhD student in Biostatistics at the <a href="https://www.umass.edu/public-health-sciences/" target="_blank">UMass Amherst School of Public Health and Health Sciences</a>, with a deep interest in statistical and data science methods for large-scale biomedical data.</p>
 
-My current engagement often involves using these methods to understand complex health outcomes, particularly within the context of cardiovascular diseases. Beyond research, I'm also involved in mentorship programs focused on career and professional development involving diverse undergraduate and pre-college students ([see my recent engagement here](https://sites.google.com/view/ekoglobalfoundation/about/the-team?authuser=0)).
+<p>My current engagement often involves using these methods to understand complex health outcomes, particularly within the context of cardiovascular diseases. Beyond research, I'm also involved in mentorship programs focused on career and professional development involving diverse undergraduate and pre-college students (<a href="https://sites.google.com/view/ekoglobalfoundation/about/the-team?authuser=0" target="_blank">see my recent engagement here</a>).</p>
 
-Before joining UMass Amherst, I earned a Statistics BS from the [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/).
-
-**Fun fact:** I once built a weekly cleaning schedule using R and emojis — because even chores deserve a good data structure!
+<p>Before joining UMass Amherst, I earned a Statistics BS from the <a href="https://www.knust.edu.gh/" target="_blank">Kwame Nkrumah University of Science and Technology</a>. Fun fact: I once built a weekly cleaning schedule using R and emojis — because even chores deserve a good data structure!</p>
 
   </div>
 
