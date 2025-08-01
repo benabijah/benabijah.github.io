@@ -4,6 +4,8 @@ title: "Projects"
 ---
 
 
+---
+
 
 ### Some Completed
 
@@ -30,4 +32,4 @@ Socio-economic Inequalities in Childhood Mortality in Ghana
 
 Land Use Regression Models for Predicting PM2.5 for Epidemiologic Studies in Africa
 
----
+
