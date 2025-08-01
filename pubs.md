@@ -1,14 +1,13 @@
 ---
 layout: page
-title: "Project"
+title: "Publications"
 ---
 
-## Ongoing
-Here is a list of some projects that are currently running!
 
--
 
-## Completed
-See a list of some finished projects
+[Longitudinal Analysis of Diabetes Progression in Medicare Patients Using Claims Data](https://github.com/benabijah/EHR)
 
-- [Longitudinal Analysis of Diabetes Progression in Medicare Patients Using Claims Data](https://github.com/benabijah/EHR)
+
+
+
+## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=a24c5_0AAAAJ)
