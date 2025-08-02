@@ -15,7 +15,7 @@ title: "About me"
 
 <p>Before joining UMass Amherst, I earned a Statistics BS from the <a href="https://www.knust.edu.gh/" target="_blank">Kwame Nkrumah University of Science and Technology</a>, Ghana.</p>
 
-<p>Fun fact: I once built a weekly cleaning schedule using R and emojis — because even chores deserve a good data structure!</p>
+<p>Fun fact: I once built a weekly cleaning schedule using R and emojis. why? — because even chores deserve a good data structure!</p>
 
   </div>
 
