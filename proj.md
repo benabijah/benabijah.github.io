@@ -7,9 +7,9 @@ title: "Projects"
 ---
 
 
-### Some Completed
+### A Selection of Completed Projects
 
-Longitudinal Analysis of Diabetes Progression in Medicare Patients Using Claims Data [[available here]](https://github.com/benabijah/EHR)
+Longitudinal Analysis of Diabetes Progression in Medicare Patients Using Claims Data
 
 Estimating Infertility Prevalence by Applying a Bayesian Current Duration Approach to Demographic and Health Survey Data
 
@@ -28,7 +28,7 @@ Socio-economic Inequalities in Childhood Mortality in Ghana
 
 
 
-### Ongoing
+### A Selection of Ongoing Porjects
 
 Land Use Regression Models for Predicting PM2.5 for Epidemiologic Studies in Africa
 
