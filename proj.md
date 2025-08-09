@@ -13,6 +13,8 @@ Longitudinal Analysis of Diabetes Progression in Medicare Patients Using Claims 
 
 Estimating Infertility Prevalence by Applying a Bayesian Current Duration Approach to Demographic and Health Survey Data
 
+Identifying Single-nucleotide polymorphisms (SNPs) associated with Asthma
+
 A Bayesian Simulation: the case of Mis-specified Data Generating Process
 
 An Exploration of Heart Failure Clinical Data
