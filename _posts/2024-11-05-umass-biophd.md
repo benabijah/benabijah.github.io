@@ -9,29 +9,16 @@ categories: media
 
 
 
-Just returning from JSM 2025, and it was so much fun!
+I got featured in a [UMass Amherst School of Public Health and Health Sciences](https://www.umass.edu/public-health-sciences/) promotional video for the Biostatistics PhD program.
 
-This year's [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2025/) saw thousands of statistics enthusiasts from all around the world converging at the Music City Center, Nashville, TN. The conference is organized annually by the [American Statistical Association](https://www.amstat.org/).
+In this video, I briefly talk about my general experiences in the doctoral program in terms coursework, research, and the various opportunities it offers me to collaborate with faculty and other researchers on varying projects. I also talked about the support that the department provides students, be it student advising, funding, among others.
 
-As a first-timer, I presented a poster on "[**Land Use Regression Models for Predicting PM2.5: A Comparative Analysis from the Accra Birth Cohort**][my-poster]", a collaborative work with Environmental Health Scientists that seek to predict the exposure of PM2.5 in epidemiological studies in Africa. I appreciate all the questions and insights shared by listeners that stopped by.
-
-I also took the opportunity to take some short courses on some important statistical considerations within the area of drug development. These courses were: [*Practical Considerations for Adaptive Clinical Trials Using Bayesian and Frequentist Methods*][short-course1]; [*Causal Inference in Randomized Controlled Trials*][short-course2]; and [*Statistical Considerations in Cell and Gene Therapy Development*][short-course3].
-
-Finally, I enjoyed other activities like the JSM mixers, round-table discussions on statistical consulting, PStat/GStat reception, as well as the numerous contributed talks I attended throughout the period. It was also an awesome moment reconnecting with some old colleagues and friends from my undergraduate college, KNUST, Ghana, who're currently pursuing graduate studies in various disciplines in other universities here in the U.S. and around the world.
-
-Many thanks to Dr. Raji Balsubramanian, the Department of Biostatistics and Epidemiology, and the Graduate School at the UMass-Amherst for their generous sponsorship. I also want to acknowledge Dr. Shirin Colchi (McGill University), Chair of the [Contributed Poster Presentations: Section on Statistics and the Environment][poster-session] for the opportunity to present my poster.
+Prospective students are encouraged to visit the [program's website][bio-epi] for more information.
 
 
-![group](/assets/images/jsm/jsm2025_grp1.jpeg)
-*Photo with fellow presenters/participants during the contributed posters*
-
-![group](/assets/images/jsm/jsm2025_grp2.jpeg)
-*Selfie time with fellow first-time participants after the "JSM first-timers orientation"*
+{% include embed.html url="https://www.youtube.com/embed/orUSMTP5720" %}
+*Profile of my research advisor, Dr. Raji Balasubramanian*
 
 
 
-[my-poster]: https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=4687
-[short-course1]: https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=4317
-[short-course2]: https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=4280
-[short-course3]: https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=4320
-[poster-session]: https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=4617
+[bio-epi]: https://www.umass.edu/public-health-sciences/academics/biostatistics
