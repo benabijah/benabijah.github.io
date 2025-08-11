@@ -5,7 +5,8 @@ layout: post
 categories: media
 ---
 
-{% include embed.html url="https://www.youtube.com/clip/UgkxE8-tuRiQ4CjHc7lLxaTuPsVQob_Psv5y" %}
+{% include embed.html url="https://www.youtube.com/embed/e6xfmCjmTyk" %}
+
 
 
 Just returning from JSM 2025, and it was so much fun!
