@@ -1,6 +1,5 @@
 ---
-title:  "UMass-Amherst Biostatistics PhD"
-mathjax: true
+title:  "What do I make of the UMass-Amherst Biostatistics PhD program?"
 layout: post
 categories: media
 ---
