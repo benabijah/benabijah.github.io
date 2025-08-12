@@ -29,7 +29,6 @@ Socio-economic Inequalities in Childhood Mortality in Ghana
 
 
 
-
 ### A Selection of Ongoing Porjects
 
 Land Use Regression Models for Predicting PM2.5 for Epidemiologic Studies in Africa
