@@ -24,7 +24,7 @@ If you're an undergraduate and curious about data and public health, I encourage
 
 
 
-![grp](/assets/images/swib/swib2025_grp.jpg)
+![grp2](/assets/images/swib/swib2025_grp2.jpeg)
 *Facilitating a session at the workshop*
 
 
