@@ -8,7 +8,7 @@ categories: media
 ![grp](/assets/images/swib/swib2025_grp.jpg)
 
 
-I could feel the buzz of curiosity when I walked into a room of 15 undergraduates who were ready to dive into the world of biostatistics. I was really excited not only because I'll get to share what I know, but also because I knew I would learn just as much from the talented students.
+I could feel the buzz of curiosity when I walked into a room of 15 undergraduates who were ready to dive into the world of Biostatistics. I was really excited not only because I'll get to share what I know, but also because I knew I would learn just as much from the talented students.
 
 The [UMass Amherst Summer Workshop in Biostatistics][swib-page], held June 9-20, 2025, brought together these talented undergraduates from across the country. Over the two weeks, they got to explore some fundamental and advanced statistical methods in public health through lectures, hands-on R sessions, and team projects.
 
