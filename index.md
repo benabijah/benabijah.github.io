@@ -13,7 +13,7 @@ title: "About me"
 
 <p>My research interests lie in statistical and data science methods for large-scale biomedical data. I use these methods to understand complex health outcomes, particularly within the context of cardiovascular diseases and other chronic health outcomes. Beyond research, I'm also involved in mentorship programs focused on career and professional development involving diverse undergraduate and pre-college students (see my recent engagement <a href="https://sites.google.com/view/ekoglobalfoundation/about/the-team?authuser=0" target="_blank">here</a>).</p>
 
-<p>Before joining UMass Amherst, I earned a Statistics B.S. from the <a href="https://www.knust.edu.gh/" target="_blank">Kwame Nkrumah University of Science and Technology</a>, Ghana.</p>
+<p>Before joining UMass Amherst, I earned a Statistics B.Sc. from the <a href="https://www.knust.edu.gh/" target="_blank">Kwame Nkrumah University of Science and Technology</a>, Ghana.</p>
 
 <p>A little fun fact about me: I once developed my weekly cleaning schedule using R and emojis, just because I think even chores deserve a good data structure! Right?</p>
 
