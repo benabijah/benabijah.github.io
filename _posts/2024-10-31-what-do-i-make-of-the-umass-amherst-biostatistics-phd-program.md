@@ -1,5 +1,5 @@
 ---
-title:  "What do I make of the UMass-Amherst Biostatistics PhD program?"
+title: "What do I make of the UMass-Amherst Biostatistics PhD program?"
 layout: post
 categories: media
 ---
