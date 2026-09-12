@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
-![me](/assets/images/jsm/jsm2025_me.jpeg)
+![me](/docs/media/jsm/jsm2025_me.jpeg)
 
 
 Just returning from JSM 2025, and it was so much fun!
@@ -22,10 +22,10 @@ It was an awesome moment reconnecting with some old colleagues and friends from 
 Many thanks to Dr. Raji Balasubramanian, the Department of Biostatistics and Epidemiology, and the Graduate School at the UMass-Amherst for their generous sponsorship. I also want to acknowledge Dr. Shirin Colchi (McGill University), Chair of the [Contributed Poster Presentations: Section on Statistics and the Environment][poster-session] for the opportunity to present my poster.
 
 
-![group](/assets/images/jsm/jsm2025_grp1.jpeg)
+![group](/docs/media/jsm/jsm2025_grp1.jpeg)
 *Photo with other presenters/participants during the contributed posters*
 
-![group](/assets/images/jsm/jsm2025_grp2.jpeg)
+![group](/docs/media/jsm/jsm2025_grp2.jpeg)
 *Selfie time with fellow first-time participants after the JSM first-timers orientation*
 
 

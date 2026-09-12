@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
-![me](/assets/images/ness/ness2025_me1.jpeg)
+![me](/docs/media/ness/ness2025_me1.jpeg)
 
 
 
@@ -19,7 +19,7 @@ There were also memorable talks from leading experts like Dr. John Lafferty (Yal
 My utmost gratitude to my sponsors Dr. Raji Balasubramanian and the UMass-Amherst Department of Biostatistics and Epidemiology, and to Dr. Jing Qian for the opportunity to speak at the invited session.
 
 
-![group](/assets/images/ness/ness2025_grp.jpeg)
+![group](/docs/media/ness/ness2025_grp.jpeg)
 *Group photo at NESS 2025 with fellow presenters from UMass-Amherst*
 
 

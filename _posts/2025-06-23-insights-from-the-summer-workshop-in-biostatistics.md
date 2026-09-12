@@ -5,7 +5,7 @@ categories: media
 ---
 
 
-![grp](/assets/images/swib/swib2025_grp.jpg)
+![grp](/docs/media/swib/swib2025_grp.jpg)
 
 
 I could feel the buzz of curiosity when I walked into a room of 15 undergraduates who were ready to dive into the world of Biostatistics. I was really excited not only because I'll get to share what I know, but also because I knew I would learn just as much from the talented students.
@@ -24,7 +24,7 @@ If you're an undergraduate and curious about data and public health, I encourage
 
 
 
-![grp2](/assets/images/swib/swib2025_grp2.jpeg)
+![grp2](/docs/media/swib/swib2025_grp2.jpeg)
 *Facilitating a session at the workshop*
 
 
