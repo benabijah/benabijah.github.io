@@ -1,0 +1,28 @@
+---
+title:  "Presenting at NESS 2025"
+layout: post
+categories: media
+---
+
+![me](/assets/images/ness/ness2025_me1.jpeg)
+
+
+
+In June 2025, I attended the 38th [New England Statistics Symposium (NESS)](https://symposium.nestat.org/index.html) hosted by the Yale University School of Public Health, New Haven, CT. The conference is an annual event organized by the [New England Statistics Society](https://nestat.org/) and gathers statisticians, data scientists, researchers, and industry players from within the New England region to promote the growth of statistical science. This was my first ever conference, and I had the privilege of presenting my research and also to participate in a short course.
+
+I presented in the invited session "**Statistical Innovations in Biomedical Research: PhD Student Presentations from UMass Amherst**", organized by Dr Jing Qian (UMass-Amherst). My talk, "**Multitask Learning Methods for Protein Biomarker Discovery for CVDs in the UK Biobank: A Simulation Study**", addressed the challenge of risk prediction of multiple related clinical outcomes in high-dimensional settings, where only a sparse subset of features is truly associated with the set of outcomes. It was truly rewarding to receive thoughtful questions from some attendees, as they become useful in directing the rest of the project.
+
+The short course "[*Optimization for Data Science and Machine Learning Problems*][short-course]" covered fundamentals of gradient-based optimization as well as other advanced optimization methods. Additionally, we discussed some key recent developments in optimization driven by challenges in machine and deep learning, such as federated and distributed learning, minimax optimization, and bilevel optimization.
+
+There were also memorable talks from leading experts like Dr. John Lafferty (Yale University), who spoke on "Chain of Thought Information", a statistical theory of learning under CoT supervision.
+
+My utmost gratitude to my sponsors Dr. Raji Balasubramanian and the UMass-Amherst Department of Biostatistics and Epidemiology, and to Dr. Jing Qian for the opportunity to speak at the invited session.
+
+
+![group](/assets/images/ness/ness2025_grp.jpeg)
+*Group photo at NESS 2025 with fellow presenters from UMass-Amherst*
+
+
+
+[short-course]: https://symposium.nestat.org/short-courses.html#:~:text=June%201%2C%202025)-,A%20Short%20Course%20on%20Optimization%20for%20Data%20Science%20and%20Machine%20Learning,Learning%20Hyperparameter%20optimization%20Neural%20Architecture%20Search%20(NAS)%20Meta%2DLearning%20and%20AutoML,-Statistical%20Methods%20for
+
